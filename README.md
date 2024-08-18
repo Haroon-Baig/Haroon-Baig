@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @InfiniteCoder-XXGame-Developer
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Ethiccal Hacking and Ecommerece
-- 💞️ I’m looking to collaborate on Game Dev
+- 🌱 I’m currently learning Ethiccal Hacking, Ecommerece and PC making
+- 💞️ I’m looking to collaborate on website making, game dev anything that requires coding
 - 📫 How to reach me haroonbaig20132013@gmail.com
-- ⚡ Fun fact: I have created many games.
 
 <!---
 InfiniteCoder-XXGame-Developer/InfiniteCoder-XXGame-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
