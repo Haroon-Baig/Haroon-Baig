@@ -7,13 +7,8 @@ I love programming, I started to code when i was 6 now I am 11. I have made many
 
 #### 💻 Technologies that I use
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg)
- <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon-Baig&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true" height="180px"/></a>
+ 
+ ##<a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon-Baig&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true" height="180px"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align="center">
-  <a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
-</div>
-
----
